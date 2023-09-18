@@ -1,4 +1,4 @@
-package game;
+package codeswithpankaj;
 
 import java.util.Arrays;
 import java.util.InputMismatchException;
